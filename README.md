@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Spring
 - 💞️ I’m looking to collaborate on IT 
 - 📫 How to reach me: lje64257@gmail.com(email), +82-10-5051-8677(phone)
-- 😄 Pronouns: He/His/Him, It/Its/Im (Let's use it/its/im as a neuter, it's heritage from Proto-Germanic! And I'm not homophobic!)
+- 😄 Pronouns: It/Its/Im (Let's use it/its/im as a neuter, it's heritage from Proto-Germanic and I'm not homophobic!)
 - ⚡ Fun fact: No have.
 
 <!---
