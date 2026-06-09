@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @PlumJE
 - 👀 I’m interested in Human's Language, Computer's Language, Arts, Sciences
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on IT 
 - 📫 How to reach me: lje64257@gmail.com(email), +82-10-5051-8677(phone)
-- 😄 Pronouns: It/Its/Im
-- ⚡ Fun fact: No have.
-- I believe anime thumbnail will make my coding skill better.
+- 😄 Pronouns: I support expanding the usage of It/Its/Im for gender neutral humans also.
+- 🙏 I believe anime thumbnail will make my coding skill better.
 
 <!---
 PlumJE/PlumJE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
